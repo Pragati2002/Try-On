@@ -1,4 +1,4 @@
-VTON - Ultra-high quality virtual try-on for Any Clothing or try on for using outfit Sketches
+Try on - Ultra-high quality virtual try-on for Any Clothing or try on for using outfit Sketches
 
 ## How to Run
 
@@ -39,4 +39,4 @@ Running on local URL:  http://127.0.0.1:6006
 
 Please visit http://127.0.0.1:7860 to web. 
 
-Voila!!!! YOU'VE create a virteual try on for specific models!!!!
+Voila!!!! YOU'VE create a virtual try on for specific models!!!!
