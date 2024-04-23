@@ -1,6 +1,4 @@
-Outfit Anyone (Latest Fixed Version): Ultra-high quality virtual try-on for Any Clothing and Any Person
-
-
+VTON - Ultra-high quality virtual try-on for Any Clothing or try on for using outfit Sketches
 
 ## How to Run
 
@@ -39,6 +37,6 @@ Loaded as API: https://humanaigc-outfitanyone.hf.space/--replicas/ppht9/ ✔
 Running on local URL:  http://127.0.0.1:6006
 ```
 
-Please visit http://127.0.0.1:7086 to web. 
+Please visit http://127.0.0.1:7860 to web. 
 
 Voila!!!! YOU'VE create a virteual try on for specific models!!!!
