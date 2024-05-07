@@ -20,8 +20,7 @@ sudo apt-get install -y libgl1-mesa-glx libglib2.0-0
 **Set up the environment variable**
 
 ```
-export OA_IP_ADDRESS=https://humanaigc-outfitanyone.hf.space/--replicas/ppht9/
-```
+export OA_IP_ADDRESS=https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/
 
 Run
 
