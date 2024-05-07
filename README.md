@@ -21,6 +21,7 @@ sudo apt-get install -y libgl1-mesa-glx libglib2.0-0
 
 ```
 export OA_IP_ADDRESS=https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/
+```
 
 Run
 
@@ -31,8 +32,8 @@ python app.py
 Success log
 
 ```
-API: https://humanaigc-outfitanyone.hf.space/--replicas/ppht9/
-Loaded as API: https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/ ) ✔
+API: https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/
+Loaded as API: https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/ ✔
 Running on local URL:  http://127.0.0.1:7860
 ```
 
