@@ -32,8 +32,8 @@ Success log
 
 ```
 API: https://humanaigc-outfitanyone.hf.space/--replicas/ppht9/
-Loaded as API: https://humanaigc-outfitanyone.hf.space/--replicas/ppht9/ ✔
-Running on local URL:  http://127.0.0.1:6006
+Loaded as API: https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/ ) ✔
+Running on local URL:  http://127.0.0.1:7860
 ```
 
 Please visit http://127.0.0.1:7860 to web. 
